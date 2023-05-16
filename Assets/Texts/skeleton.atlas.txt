@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000_Layer-8
+  rotate: true
+  xy: 2, 49
+  size: 25, 122
+  orig: 25, 122
+  offset: 0, 0
+  index: -1
+_0001_70%
+  rotate: true
+  xy: 492, 2
+  size: 215, 259
+  orig: 215, 259
+  offset: 0, 0
+  index: -1
+_0001_70% - Copy
+  rotate: true
+  xy: 492, 2
+  size: 215, 259
+  orig: 215, 259
+  offset: 0, 0
+  index: -1
+_0001_70% - Copy (2)
+  rotate: true
+  xy: 492, 2
+  size: 215, 259
+  orig: 215, 259
+  offset: 0, 0
+  index: -1
+_0001_Layer-7
+  rotate: true
+  xy: 2, 24
+  size: 23, 122
+  orig: 23, 122
+  offset: 0, 0
+  index: -1
+_0002_30%-light
+  rotate: false
+  xy: 780, 115
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+_0002_Layer-6
+  rotate: true
+  xy: 2, 2
+  size: 20, 122
+  orig: 20, 122
+  offset: 0, 0
+  index: -1
+_0003_30%
+  rotate: false
+  xy: 492, 219
+  size: 209, 291
+  orig: 209, 291
+  offset: 0, 0
+  index: -1
+_0003_30% - Copy
+  rotate: false
+  xy: 492, 219
+  size: 209, 291
+  orig: 209, 291
+  offset: 0, 0
+  index: -1
+_0003_Layer-5
+  rotate: false
+  xy: 703, 388
+  size: 25, 122
+  orig: 25, 122
+  offset: 0, 0
+  index: -1
+_0004_10%
+  rotate: false
+  xy: 753, 173
+  size: 154, 337
+  orig: 154, 337
+  offset: 0, 0
+  index: -1
+_0004_Layer-4
+  rotate: false
+  xy: 753, 49
+  size: 25, 122
+  orig: 25, 122
+  offset: 0, 0
+  index: -1
+_0005_Layer-3
+  rotate: true
+  xy: 126, 51
+  size: 23, 122
+  orig: 23, 122
+  offset: 0, 0
+  index: -1
+_0005_laser1
+  rotate: false
+  xy: 936, 453
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+_0006_Layer-2
+  rotate: false
+  xy: 703, 264
+  size: 20, 122
+  orig: 20, 122
+  offset: 0, 0
+  index: -1
+_0006_laser2
+  rotate: false
+  xy: 780, 57
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+_0007_100%
+  rotate: false
+  xy: 2, 76
+  size: 488, 434
+  orig: 488, 434
+  offset: 0, 0
+  index: -1
+_0007_Layer-1
+  rotate: false
+  xy: 909, 388
+  size: 25, 122
+  orig: 25, 122
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: true
+  xy: 126, 8
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+wing1 - Copy
+  rotate: false
+  xy: 936, 400
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: false
+  xy: 842, 120
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+wing2 - Copy
+  rotate: true
+  xy: 179, 8
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+player-json.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 210, 2
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 254, 58
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 367, 100
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 175, 2
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 138, 2
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 216, 57
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 292, 93
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 138, 33
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 178, 33
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 331, 93
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 216, 90
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 254, 90
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 2, 27
+  size: 134, 99
+  orig: 134, 99
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 138, 69
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1

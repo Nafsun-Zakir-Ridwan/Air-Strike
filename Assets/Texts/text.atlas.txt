@@ -1,0 +1,48 @@
+
+text.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defeated
+  rotate: true
+  xy: 665, 175
+  size: 464, 87
+  orig: 464, 87
+  offset: 0, 0
+  index: -1
+level-completed
+  rotate: false
+  xy: 2, 2
+  size: 669, 73
+  orig: 669, 73
+  offset: 0, 0
+  index: -1
+lose-black
+  rotate: false
+  xy: 2, 500
+  size: 661, 139
+  orig: 661, 139
+  offset: 0, 0
+  index: -1
+lose-grey
+  rotate: false
+  xy: 2, 359
+  size: 661, 139
+  orig: 661, 139
+  offset: 0, 0
+  index: -1
+win-blue
+  rotate: false
+  xy: 2, 218
+  size: 661, 139
+  orig: 661, 139
+  offset: 0, 0
+  index: -1
+win-red
+  rotate: false
+  xy: 2, 77
+  size: 661, 139
+  orig: 661, 139
+  offset: 0, 0
+  index: -1
